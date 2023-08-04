@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Info-graphic-website/static/css/main.077f864a.css",
+    "main.js": "/Info-graphic-website/static/js/main.b0982bba.js",
+    "static/media/Hero.png": "/Info-graphic-website/static/media/Hero.b80516078fb7ecb3c659.png",
+    "static/media/Image3.png": "/Info-graphic-website/static/media/Image3.32107b51518df9a47af0.png",
+    "static/media/Image4.png": "/Info-graphic-website/static/media/Image4.b7e6e12b6e0e1ac00629.png",
+    "static/media/Image2.png": "/Info-graphic-website/static/media/Image2.04520acc020702832268.png",
+    "static/media/Image1.png": "/Info-graphic-website/static/media/Image1.a5cf76f1936092d0427a.png",
+    "static/media/Imagebg.png": "/Info-graphic-website/static/media/Imagebg.2c53f113b7bcfceb995c.png",
+    "index.html": "/Info-graphic-website/index.html",
+    "main.077f864a.css.map": "/Info-graphic-website/static/css/main.077f864a.css.map",
+    "main.b0982bba.js.map": "/Info-graphic-website/static/js/main.b0982bba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.077f864a.css",
+    "static/js/main.b0982bba.js"
+  ]
+}
